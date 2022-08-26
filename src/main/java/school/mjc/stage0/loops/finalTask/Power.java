@@ -13,3 +13,4 @@ public class Power {
         new Power().printPower(10, 3);
     }
 }
+
